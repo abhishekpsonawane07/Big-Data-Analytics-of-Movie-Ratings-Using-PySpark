@@ -107,24 +107,20 @@ The following data is displayed when users click the corresponding buttons:
 This project demonstrates how big data processing with PySpark can provide deep insights into large-scale datasets. The integration of Gradio allows for an interactive and user-friendly way to explore and visualize the results.
 
 
----
+
 
 🔗 **Acknowledgments**
 - **MovieLens Dataset**: [GroupLens](https://grouplens.org/datasets/)
-
-
 ---
 
 
-
----
 
 ### 🔗 **Citation**
 If you use this dataset, please cite the paper:
 
 > Harper, F. M., & Konstan, J. A. (2015). *The MovieLens Datasets: History and Context*. ACM Transactions on Interactive Intelligent Systems (TiiS), 5(4), 19:1–19:19. [DOI](https://doi.org/10.1145/2827872)
-
 ---
+
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
